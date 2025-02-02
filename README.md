@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @sm123ali
-- 👀 I’m interested in Boxing
 - 🌱 I’m currently learning ReactJs
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 sm123ali/sm123ali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
